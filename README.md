@@ -1,20 +1,34 @@
-# Summary
-
 {% include cover.md %}
+
+-----
 
 {% include about/about_pycon.md %}
 
+-----
+
 {% include about/about_pycon_org.md %}
+
+-----
 
 {% include about/etc.md %}
 
+-----
+
 {% include sponsor/for_sponsor.md %}
+
+-----
 
 {% include sponsor/table.md %}
 
+-----
+
 {% include sponsor/about_benefit.md %}
 
+-----
+
 {% include sponsor/etc.md %}
+
+-----
 
 {% include end.md %}
 
