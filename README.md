@@ -1,4 +1,7 @@
 # Summary
+
+{% include cover.md %}
+
 * [파이콘 한국 2019 후원사를 위한 안내서](cover.md)
     - [파이콘 소개](about_pycon.md)
         - [파이콘 한국 소개](about_pycon.md)
