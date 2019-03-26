@@ -12,3 +12,12 @@
 
 - 후원 가능 여부나 기타 문의사항은 언제든지 sponsor@pycon.kr로 문의 주시기 바랍니다.
 -  커뮤니티 스폰서십은 비영리 단체에 한합니다.
+
+
+| Rating    | Security            | Explanation                             |
+|-----------|---------------------|-----------------------------------------|
+| Excellent | Very secure         | Criteria is met optimal                 |
+| High      | Secure              | Criteria is met                         |
+| Mid       | Insufficient secure | Criteria is met partly                  |
+| Low       | Insecure            | Criteria is no met                      |
+| N/A       | Not rated           | Criteria is not available or irrelevant |
