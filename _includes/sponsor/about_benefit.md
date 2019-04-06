@@ -13,7 +13,28 @@ Gender, Phone Number, Address in Korea, Visit Date
 
 #### 후원사 부스
 등급에 따라 정해진 크기의 부스를 이용하실 수 있습니다. 이 장소에서 후원사 홍보 및 이벤트를 공식적으로 진행할 수 있습니다.
-예) CODING BATTLE 가위바위보
+후원 등급에 따라 제공되는 부스의 크기와 물품은 아래에서 확인하실 수 있습니다.
+자세한 내용은 파이콘 한국 준비위원회와 부스 설치 업체와의 계약 사항에 따라 변경될 수도 있습니다.
+
+
+![gold](https://lh5.googleusercontent.com/JNJsZ6j2_r6OtR7vdQgnP-hON5jnN1TkDotVW-rp5d9RZKLzEDejq76XlF4OFsdAbEdpr3qQEfGzFUHZJc3WC6L8Uf0fu68rjvSERNif)
+
+![platinum](https://lh4.googleusercontent.com/AnJC4xIDz7tO9E2XWrRUWJ1oHtr-Q6uiyIdx9FqJb3SjO1CcrMq9WELtYrjVSUKJdK5eaj8RUoudoLk_y6-RVJ18xegAhRM4QrC__T8c)
+
+![diamond](https://lh3.googleusercontent.com/lGVGJQvp7JeMBFDBawQzfR4OrcueKROI24kqJC0hY5v-DNgxpSsIOScUqT-NBlbG3pAmh9BsHQ7LMLCkXYyvZm601EJm-fKP9i9g9NXa)
+
+- 키스톤 후원사의 부스 사양에 대해서는 추후 추가하겠습니다. 제공 내용은 아래와 같습니다.
+    - 제공사항
+        - 부스: 
+            - 인포데스크 5개 + 접의자 10개
+            - 콘센트 2구 5개 (멀티탭 필요시 자체 준비 요청)
+            - 암스팟 5개
+            - 부스 벽면은 기본 화이트로 제공되며 자유롭게 구성 가능 (현수막/족자봉 사용 권장, 접착식으로 진행시 꼭 리무버용으로 진행해야하며, 사전에 미리 시공업체에 말씀해주셔야 합니다)
+        - 부스 스펙
+            - 상단현수막: 2600 * 700 (mm) 5개
+            - 상호 간판: 1800 * 400 (mm) 5개
+            - 테이블 로고 사이즈: 80 - 130mm (로고 형태에 따라 달라짐) 5개
+
 
 #### 후원사와 참자가를 위한 열린점심
   컨퍼런스 행사일 (8월 16일, 8월 17일) 양일간 골드 등급 이상의 후원사에 한해 점심시간 동안 참가자들과 함께 행사를 진행할 수 있도록 아래와 같이 공간을 제공해드리고자 합니다. 
@@ -53,13 +74,22 @@ Gender, Phone Number, Address in Korea, Visit Date
   후원사에서 광고를 제공해주지 않은 경우에는 파이콘 한국 2019 준비위원회에서 임의로 로고 및 내용을 제공합니다.
 
 ##### 현수막 등재
+
+![on big banner](https://lh6.googleusercontent.com/QtfvcIF-2bCzoTW5sLgozbNbmdmyMeJosDVo7ynLTpMRAahT5b1BHRn-tahmn8xhlqn6iLAmpaKZyAxqz1KrlhSC13nl91QY-UONP0mI)
+
 키노트 세션 및 단체 사진에 노출되는 현수막에 후원사 로고가 노출됩니다.
 
 ##### 목줄 로고
+
+![on name tag](https://lh5.googleusercontent.com/QUqFv5lYsilSgfA8d6HALxPtD11FYjzQvaWp6UYYjeZcqMp4JKqOGay0YlayqzKbw2EuPSgSljppkWeVIv_sNm-GwGHMiQmt9_ejfJm6)
+
 키스톤 스폰서의 경우, 참가자 목줄에 로고를 인쇄하실 수 있으시며, 파이콘 한국의 로고와 함께 들어갈 수 있습니다.
 
 
 #### 스탠드 배너 및 포스터
+
+![on standing banner](https://lh5.googleusercontent.com/xJSdOkryyg3FYqRKlmPalByKqqWsgpZI_3BJ-PWxEnE2MgtrhcrextuLDsvtAKE2EP1b0WfqlMGdjo8Dwz1lWMUew71oqUNQp5JMO0c_)
+
 행사장 입구 및 내부에 위치할 스탠드 배너에 후원사의 로고를 노출합니다.
 추가로 스탠드 배너와 유사한 형태로 포스터를 제작하여 행사장 곳곳에 안내를 위한 목적으로 부착합니다.
 
