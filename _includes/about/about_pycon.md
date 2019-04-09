@@ -16,7 +16,7 @@
 - [파이콘 한국 2018 홈페이지](http://www.pycon.kr/2018)
 - [파이콘 한국 2018 사진첩 (flickr)](https://www.flickr.com/photos/126829363@N08/sets/72157702083439922)
 
-![pycon korea 2018](https://lh4.googleusercontent.com/XxiqnfhmmlsqUL_Aihr2ylD2zYmjhsQEYtsQot7nePOG9ISOC5QDcVj7ze_w-plp4R7yBAWBu7VjSTpwfCFjLV0ZE9OYgYXlrvh3AJSv)
+![pycon korea 2018](/_assets/pyconkr2018.jpg)
 
 ### 파이콘 한국 2017
 파이콘 한국 2017은 8월 12일부터 15일까지 4일간 ‘Back to the Basic’을 주제로 코엑스 그랜드볼룸에서 개최되었습니다. 본 행사는 1800여 명의 참가자, 60명의 발표자, 26명의 스태프, 그리고 41명의 자원봉사자들이 함께 해 성대하게 진행하였습니다. 파이콘 2017에서는 처음으로 초등학교 고학년 이상 학생을 위한 파이썬 교육 프로그램 ‘영코더’,  미취학 아동을 안심하고 맡길 수 있는 ‘아이돌봄’ 을 제공하여 자녀와 함께 부담없이 참가할 수 있도록 하는 시도들을 하였고 참가자들로부터 많은 호평을 받았습니다. 행사의 규모가 큰 폭으로 커졌고 성숙도 또한 성장하여 한국의 대표적인 개발 컨퍼런스로서 자리매김한 행사가 되었습니다.
@@ -26,7 +26,7 @@
 - [파이콘 한국 2017 홈페이지](http://www.pycon.kr/2017)
 - [파이콘 한국 2017 사진첩(flickr)](https://www.flickr.com/photos/126829363@N08/albums/72157684979805804)
 
-![pycon korea 2017](https://lh6.googleusercontent.com/qTfbh62qBYjhMVZFRdrKT7cqIE7Y-mxJksphktSf-S7sqckY8ureZtLg5-XYpUmk0-0kAGCsFzoZtlvytkPldi2eEtGBt8oR6lOUazqm)
+![pycon korea 2017](/_assets/pyconkr2017.jpg)
 
 ### 파이콘 APAC 2016
 파이콘은 전세계 각지에서 열리는 파이썬 개발자들의 컨퍼런스이자 축제 이며 그중 파이콘 APAC은 아시아 파이썬 개발자들이 모이는 커다란 행사 입니다. 2015, 2014년에는 대만에서 열렸으며 2013년에는 일본, 2012년에는 싱가포르 에서 개최되었습니다. 2016년에는 한국에서 성대하게 열리며 코엑스 그랜드볼룸에서 1500명 이상의 참가자와 각국에서 오는 유명 파이썬 개발자들의 발표가 있는 컨퍼런스로 치루졌으며, 2일간의 세션과 하루동안의 튜토리얼, 스프린트 로 이루어져 총 3일간 진행되었습니다.
@@ -36,7 +36,7 @@
 - [파이콘 APAC 2016 홈페이지](http://www.pycon.kr/2016)
 - [파이콘 APAC 2016 사진첩 (flickr)](https://www.flickr.com/photos/126829363@N08/albums/72157671256038363)
 
-![pycon apac 2016](https://lh5.googleusercontent.com/2UkNyU6g52xAYqtzNvWd61g4ROPY-P5EgBnIr3i6OUoYAdcGqFsOtcNcWlaHbgBVsXgb6wF2odEcKnJ51jgLKMoT6oLplbI1hwZu5WLZ)
+![pycon apac 2016](/_assets/pyconkr2016.jpg)
 
 ### 파이콘 한국 2015
 파이콘 한국 2015는 2015년 8월 29일, 30일 양일동안 상암동 누리꿈스퀘어에서 700명 이상의 참석자와 30여개의 세션과 함께 성공적으로 치루어 졌습니다. 행사가 규모면에서 참가자 및 발표 세션 수 2배가 되었고 날짜도 2일짜리 행사로 커졌을 뿐 아니라, 미국 일본 등에서 해외 스피커 등이 참석하는 국제적인 행사의 모습을 갖추어가는 행사였습니다.
@@ -44,7 +44,7 @@
 - [파이콘 한국 2015 홈페이지](http://www.pycon.kr/2015)
 - [파이콘 한국 2015 사진첩 (flickr)](https://www.flickr.com/photos/126829363@N08/sets/72157657573435230/)
 
-![pycon korea 2015](https://lh3.googleusercontent.com/X6hGtcchae3qIK4B1Ra2Y8AJhCaUmVL_vmBRKa2fiDL00IWFCEIQ6VxFfilnDYhhOLIpB5OKXzbTWz38iwX_YqO61FuLUCq7cCCcysaSmg)
+![pycon korea 2015](/_assets/pyconkr2015.jpg)
 
 ### 파이콘 한국 2014
 파이콘 한국 2014는 한국에서 열리는 첫번째 파이콘이었습니다. 2014년 8월 30일, 숙명여자대학교에서 450여명의 참석자와 20여개의 세션, 17명의 발표자와 함께 성황리에 종료되었습니다. 행사 준비와 진행을 위해 20명의 자원봉사자 분들과 11명의 준비위원회 스태프가 노력하였습니다.
@@ -52,7 +52,7 @@
 - [파이콘 한국 2014 홈페이지](http://www.pycon.kr/2014/)
 - [파이콘 한국 2014 사진첩 (flickr)](https://www.flickr.com/photos/126829363@N08/sets/72157647241831642/)
 
-![pycon korea 2014](https://lh4.googleusercontent.com/5U94e3Hu4qAU5g2FWVZrb88EmDeLClRBYGJRnPc25ElYuRfK7_R3XNswwNhTkne_rHMP5ZAqj-aStq30I32P3TKA8KvCTmZ5VyLXVihL)
+![pycon korea 2014](/_assets/pyconkr2014.jpg)
 
 
 

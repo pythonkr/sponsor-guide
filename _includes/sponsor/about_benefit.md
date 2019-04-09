@@ -17,11 +17,11 @@
 자세한 내용은 파이콘 한국 준비위원회와 부스 설치 업체와의 계약 사항에 따라 변경될 수도 있습니다.
 
 
-![gold](https://lh5.googleusercontent.com/JNJsZ6j2_r6OtR7vdQgnP-hON5jnN1TkDotVW-rp5d9RZKLzEDejq76XlF4OFsdAbEdpr3qQEfGzFUHZJc3WC6L8Uf0fu68rjvSERNif)
+![gold](/_assets/gold.png)
 
-![platinum](https://lh4.googleusercontent.com/AnJC4xIDz7tO9E2XWrRUWJ1oHtr-Q6uiyIdx9FqJb3SjO1CcrMq9WELtYrjVSUKJdK5eaj8RUoudoLk_y6-RVJ18xegAhRM4QrC__T8c)
+![platinum](/_assets/platinum.png)
 
-![diamond](https://lh3.googleusercontent.com/lGVGJQvp7JeMBFDBawQzfR4OrcueKROI24kqJC0hY5v-DNgxpSsIOScUqT-NBlbG3pAmh9BsHQ7LMLCkXYyvZm601EJm-fKP9i9g9NXa)
+![diamond](/_assets/diamond.png)
 
 키스톤 후원사의 부스 사양에 대해서는 추후 추가하겠습니다. 제공 내용은 아래와 같습니다.
 - 제공사항
@@ -75,20 +75,20 @@
 
 #### 현수막 등재
 
-![on big banner](https://lh6.googleusercontent.com/QtfvcIF-2bCzoTW5sLgozbNbmdmyMeJosDVo7ynLTpMRAahT5b1BHRn-tahmn8xhlqn6iLAmpaKZyAxqz1KrlhSC13nl91QY-UONP0mI)
+![on big banner]()
 
 키노트 세션 및 단체 사진에 노출되는 현수막에 후원사 로고가 노출됩니다.
 
 #### 목줄 로고
 
-![on name tag](https://lh5.googleusercontent.com/QUqFv5lYsilSgfA8d6HALxPtD11FYjzQvaWp6UYYjeZcqMp4JKqOGay0YlayqzKbw2EuPSgSljppkWeVIv_sNm-GwGHMiQmt9_ejfJm6)
+![on name tag](/_assets/nametag.jpg)
 
 키스톤 스폰서의 경우, 참가자 목줄에 로고를 인쇄하실 수 있으시며, 파이콘 한국의 로고와 함께 들어갈 수 있습니다.
 
 
 #### 스탠드 배너 및 포스터
 
-![on standing banner](https://lh5.googleusercontent.com/xJSdOkryyg3FYqRKlmPalByKqqWsgpZI_3BJ-PWxEnE2MgtrhcrextuLDsvtAKE2EP1b0WfqlMGdjo8Dwz1lWMUew71oqUNQp5JMO0c_)
+![on standing banner](/_assets/banner.jpg)
 
 행사장 입구 및 내부에 위치할 스탠드 배너에 후원사의 로고를 노출합니다.
 추가로 스탠드 배너와 유사한 형태로 포스터를 제작하여 행사장 곳곳에 안내를 위한 목적으로 부착합니다.
