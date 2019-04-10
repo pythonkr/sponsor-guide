@@ -3,4 +3,4 @@
 - 블로그 : https://blog.pycon.kr
 - 페이스북 : https://www.facebook.com/pyconkorea
 - 트위터 : https://twitter.com/pyconkr
-- Github : https://github.com/pythonkr/pyconkr-2019
+- Github : https://github.com/pythonkr/pyconkr-web
