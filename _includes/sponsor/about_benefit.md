@@ -17,7 +17,7 @@
 자세한 내용은 파이콘 한국 준비위원회와 부스 설치 업체와의 계약 사항에 따라 변경될 수도 있습니다.
 
 
-![gold](https://raw.githubusercontent.com/pythonkr/sponsor-guide/masterimages/gold.png)
+![gold](images/gold.png)
 
 ![platinum](images/platinum.png)
 
