@@ -17,11 +17,11 @@
 자세한 내용은 파이콘 한국 준비위원회와 부스 설치 업체와의 계약 사항에 따라 변경될 수도 있습니다.
 
 
-![gold](https://raw.githubusercontent.com/pythonkr/sponsor-guide/master/_assets/gold.png)
+![gold](https://raw.githubusercontent.com/pythonkr/sponsor-guide/masterimages/gold.png)
 
-![platinum](/_assets/platinum.png)
+![platinum](images/platinum.png)
 
-![diamond](/_assets/diamond.png)
+![diamond](images/diamond.png)
 
 키스톤 후원사의 부스 사양에 대해서는 추후 추가하겠습니다. 제공 내용은 아래와 같습니다.
 - 제공사항
@@ -81,14 +81,14 @@
 
 #### 목줄 로고
 
-![on name tag](/_assets/nametag.jpg)
+![on name tag](images/nametag.jpg)
 
 키스톤 스폰서의 경우, 참가자 목줄에 로고를 인쇄하실 수 있으시며, 파이콘 한국의 로고와 함께 들어갈 수 있습니다.
 
 
 #### 스탠드 배너 및 포스터
 
-![on standing banner](/_assets/banner.jpg)
+![on standing banner](images/banner.jpg)
 
 행사장 입구 및 내부에 위치할 스탠드 배너에 후원사의 로고를 노출합니다.
 추가로 스탠드 배너와 유사한 형태로 포스터를 제작하여 행사장 곳곳에 안내를 위한 목적으로 부착합니다.
