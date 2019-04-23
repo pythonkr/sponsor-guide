@@ -4,6 +4,6 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-baseurl: "/sponsor-guide"
+baseurl: /sponsor-guide
 theme: jekyll-theme-cayman
 
