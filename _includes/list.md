@@ -25,7 +25,7 @@
 {% assign navigation_pages = site.posts | sort: 'navigation_weight' %}
 {% for post in navigation_pages %}
  {% if post.tags contains tag %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="/sponsor-guide/{{ post.url }}">{{ post.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
