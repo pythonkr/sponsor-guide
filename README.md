@@ -12,7 +12,7 @@
 
 -----
 
-{% include about/etc.md %}
+{% include about/faq.md %}
 
 -----
 
@@ -25,6 +25,10 @@
 -----
 
 {% include sponsor/about_benefit.md %}
+
+-----
+
+{% include sponsor/faq.md %}
 
 -----
 
