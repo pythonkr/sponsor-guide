@@ -1,1 +1,9 @@
+name: Sponsor-Guide
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+
+baseurl: "/sponsor-guide"
 theme: jekyll-theme-cayman
+
