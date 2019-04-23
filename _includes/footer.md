@@ -1,3 +1,6 @@
+-----
+{% include list.md %}
+-----
 ## 파이콘 한국 2019 공식채널
 - 홈페이지 : https://www.pycon.kr
 - 블로그 : https://blog.pycon.kr

@@ -1,3 +1,9 @@
+---
+layout:     default
+title:      후원사 혜택
+tags: [Sponsor]
+navigation_weight: 1
+---
 ## 후원사 혜택
 
 ### 1. 브랜드 이미지
