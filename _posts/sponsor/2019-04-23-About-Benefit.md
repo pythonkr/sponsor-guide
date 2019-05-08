@@ -1,3 +1,10 @@
+---
+layout:     default
+title:      스폰서 혜택 상세 안내
+tags: [Sponsor]
+navigation_weight: 3
+---
+
 ## 스폰서 혜택 상세 안내
 
 #### 후원사 티켓 지원
@@ -17,11 +24,11 @@
   자세한 내용은 파이콘 한국 준비위원회와 부스 설치 업체와의 계약 사항에 따라 변경될 수도 있습니다.
 
 
-![gold](images/gold.png)
+![gold]({{ site.baseurl }}/images/gold.png)
 
-![platinum](images/platinum.png)
+![platinum]({{ site.baseurl }}/images/platinum.png)
 
-![diamond](images/diamond.png)
+![diamond]({{ site.baseurl }}/images/diamond.png)
 
 키스톤 후원사의 부스 사양에 대해서는 추후 추가하겠습니다. 제공 내용은 아래와 같습니다.
 - 제공사항
@@ -75,20 +82,20 @@
 
 #### 현수막 등재
 
-![on big banner](images/booths.jpg)
+![on big banner]({{ site.baseurl }}/images/booths.jpg)
 
   키노트 세션 및 단체 사진에 노출되는 현수막에 후원사 로고가 노출됩니다.
 
 #### 목줄 로고
 
-![on name tag](images/nametag.jpg)
+![on name tag]({{ site.baseurl }}/images/nametag.jpg)
 
   키스톤 스폰서의 경우, 참가자 목줄에 로고를 인쇄하실 수 있으시며, 파이콘 한국의 로고와 함께 들어갈 수 있습니다.
 
 
 #### 스탠드 배너 및 포스터
 
-![on standing banner](images/banner.jpg)
+![on standing banner]({{ site.baseurl }}/images/banner.jpg)
 
   행사장 입구 및 내부에 위치할 스탠드 배너에 후원사의 로고를 노출합니다.
   추가로 스탠드 배너와 유사한 형태로 포스터를 제작하여 행사장 곳곳에 안내를 위한 목적으로 부착합니다.
