@@ -10,4 +10,4 @@
 - 예상 참여자 수 : 1,800여명
 
 #### 스폰서 담당자
-이메일 : sponsor@pycon.kr
+- 이메일 : sponsor@pycon.kr
