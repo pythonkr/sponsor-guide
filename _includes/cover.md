@@ -7,8 +7,8 @@
 - 일정 : 2020년 9월 26일(토) ~ 27일(일) (2일간)
 - 장소 : [파이콘 한국 유튜브 채널](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow)
 - 주최 : 파이콘 한국 준비위원회
-- 웹 사이트 : https://www.pycon.kr
+- 웹 사이트 : [https://www.pycon.kr](https://www.pycon.kr)
 
 #### 스폰서 담당자
 
-- 이메일 : sponsor@pycon.kr
+- 이메일 : [sponsor@pycon.kr](sponsor@pycon.kr)
