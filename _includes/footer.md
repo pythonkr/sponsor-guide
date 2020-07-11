@@ -7,3 +7,4 @@
 - 페이스북 : https://www.facebook.com/pyconkorea
 - 트위터 : https://twitter.com/pyconkr
 - Github : https://github.com/pythonkr/pyconkr-web
+- 유튜브 : https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow
